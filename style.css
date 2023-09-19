@@ -64,7 +64,7 @@ align-items: center;
 }
 #Home::before{
     content: "";
-    background: url('../build.jpg') no-repeat center center/cover;
+    background: url('build.jpg') no-repeat center center/cover;
     position: absolute;
     top: 0px;
     left: 0px;
@@ -108,7 +108,7 @@ align-items: center;
     border-radius: 30px;
     height: 300px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background: url('../bgreal.png');
+    background: url('bgreal.png');
     text-align: center;
 
 }
